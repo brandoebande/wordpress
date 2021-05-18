@@ -202,7 +202,7 @@
           </div><!--grey box -->
         </div><!--/span3-->
         <div class="col-md-3">
-          <a href="https://drive.google.com/file/d/1UFmZTvfYzqj1WYDON2sUI1nCHxFDHRTl/view?usp=sharing">
+          <a href="assets/sunningdaleumc.pdf">
           <div class="grey-box-icon">
             <div class="icon-box-top grey-box-icon-pos">
               <img src="assets/images/book1.png"height= 150px alt="" />
