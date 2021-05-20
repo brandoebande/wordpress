@@ -75,7 +75,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 					<div class="col-md-8">
 					<div id="googleMap" style="width:100%;height:400px;overflow:scroll;">
 						
-					<img src="assets/images/map.png"  scrolling="yes" frameborder="1" >
+					<img src="assets/images/map.PNG"  scrolling="yes" frameborder="1" >
 					
 					</div>
 
