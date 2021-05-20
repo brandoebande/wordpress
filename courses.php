@@ -261,7 +261,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
             </li>
             <li><a href="#">
                 Installation of Solar gyser
-                at the passornage
+        
               </a>
             </li>
             <li><a href="#">
