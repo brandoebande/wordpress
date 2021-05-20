@@ -213,7 +213,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
             <div class="contact-info"> 
             <i class="fa fa-map-marker"></i> 1074 3 Kingbird Road<br>
             <i class="fa fa-phone"></i> 04 576 776<br>
-             <i class="fa fa-envelope-o"></i> sunningdaleumczw@email.com
+             <i class="fa fa-envelope-o"></i> sunningdaleumczw@gmail.com
               </div> 
                 </div><!-- end widget --> 
     </div>

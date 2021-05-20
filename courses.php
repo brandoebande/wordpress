@@ -63,17 +63,50 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 		<header id="head" class="secondary">
             <div class="container">
                     <h1>News</h1>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing eliras scele!</p>
+                    
                 </div>
     </header>
 
     
     <div class="container">
-<h3>Courses</h3>
+<h3>News</h3>
 <p>
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 </p>
 <br/>
+<ul class="list-unstyled video-list-thumbs row">
+	<li class="col-lg-3 col-sm-4 col-xs-6">
+		<a href="#" title="Claudio Bravo, antes su debut con el Barça en la Liga">
+			<img src="http://i.ytimg.com/vi/ZKOtE9DOwGE/mqdefault.jpg" alt="Barca" class="img-responsive" height="130px" />
+			<h2>Claudio Bravo, antes su debut con el Barça en la Liga</h2>
+			<span class="play-button"></span>
+			<span class="duration">03:15</span>
+		</a>
+	</li>
+	<li class="col-lg-3 col-sm-4 col-xs-6">
+		<a href="#" title="Claudio Bravo, antes su debut con el Barça en la Liga">
+			<img src="http://i.ytimg.com/vi/ZKOtE9DOwGE/mqdefault.jpg" alt="Barca" class="img-responsive" height="130px" />
+			<h2>Claudio Bravo, antes su debut con el Barça en la Liga</h2>
+			<span class="play-button"></span>
+			<span class="duration">03:15</span>
+		</a>
+	</li>
+	<li class="col-lg-3 col-sm-4 col-xs-6">
+		<a href="#" title="Claudio Bravo, antes su debut con el Barça en la Liga">
+			<img src="http://i.ytimg.com/vi/ZKOtE9DOwGE/mqdefault.jpg" alt="Barca" class="img-responsive" height="130px" />
+			<h2>Claudio Bravo, antes su debut con el Barça en la Liga</h2>
+			<span class="play-button"></span>
+			<span class="duration">03:15</span>
+		</a>
+	</li>
+	<li class="col-lg-3 col-md-4 col-sm-4 col-xs-6">
+		<a href="#" title="Claudio Bravo, antes su debut con el Barça en la Liga">
+			<img src="http://i.ytimg.com/vi/ZKOtE9DOwGE/mqdefault.jpg" alt="Barca" class="img-responsive" height="130px" />
+			<h2>Claudio Bravo, antes su debut con el Barça en la Liga</h2>
+			<span class="play-button"></span>
+			<span class="duration">03:15</span>
+		</a>
+	</li> 
+</ul>
 <ul class="list-unstyled video-list-thumbs row">
 	<li class="col-lg-3 col-sm-4 col-xs-6">
 		<a href="#" title="Claudio Bravo, antes su debut con el Barça en la Liga">
@@ -278,7 +311,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
             <div class="contact-info"> 
             <i class="fa fa-map-marker"></i> 1074 3 Kingbird Road<br>
             <i class="fa fa-phone"></i> 04 576 776<br>
-             <i class="fa fa-envelope-o"></i> sunningdaleumczw@email.com
+             <i class="fa fa-envelope-o"></i> sunningdaleumczw@gmail.com
               </div> 
                 </div><!-- end widget --> 
     </div>
@@ -287,7 +320,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 			<div class="social text-center">
 				<a href="#"><i class="fa fa-twitter"></i></a>
 				<a href="https://www.facebook.com/pages/category/Methodist-Church/United-Methodist-Church-Sunningdale-Circuit-987074271500731/"><i class="fa fa-facebook"></i></a>
-				<a href="https://instagram.com/sunningdaleumyf"><i class="fa fa-instagram"></i></a>
+				<a href="https://www.instagram.com/sunningdale_umc/"><i class="fa fa-instagram"></i></a>
 				<a href="https://www.youtube.com/channel/UCG1a0pucBsx1xoRD1qvufRw/"><i class="fa fa-youtube"></i></a>
         
 			

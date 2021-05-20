@@ -64,7 +64,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 		<header id="head" class="secondary">
             <div class="container">
                     <h1>Contact Us</h1>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing eliras scele!</p>
+                   
                 </div>
     </header>
 
@@ -73,54 +73,27 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 	<div class="container">
 				<div class="row">
 					<div class="col-md-8">
-						<h3 class="section-title">Your Message</h3>
-						<p>
-						Lorem Ipsum is inting and typesetting in simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the is dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-						</p>
+					<div id="googleMap" style="width:100%;height:400px;overflow:scroll;">
 						
-						<form class="form-light mt-20" role="form">
-							<div class="form-group">
-								<label>Name</label>
-								<input type="text" class="form-control" placeholder="Your name">
-							</div>
-							<div class="row">
-								<div class="col-md-6">
-									<div class="form-group">
-										<label>Email</label>
-										<input type="email" class="form-control" placeholder="Email address">
-									</div>
-								</div>
-								<div class="col-md-6">
-									<div class="form-group">
-										<label>Phone</label>
-										<input type="text" class="form-control" placeholder="Phone number">
-									</div>
-								</div>
-							</div>
-							<div class="form-group">
-								<label>Subject</label>
-								<input type="text" class="form-control" placeholder="Subject">
-							</div>
-							<div class="form-group">
-								<label>Message</label>
-								<textarea class="form-control" id="message" placeholder="Write you message here..." style="height:100px;"></textarea>
-							</div>
-							<button type="submit" class="btn btn-two">Send message</button><p><br/></p>
-						</form>
+					<img src="assets/images/map.png"  scrolling="yes" frameborder="1" >
+					
+					</div>
+
+
 					</div>
 					<div class="col-md-4">
 						<div class="row">
 							<div class="col-md-6">
-								<h3 class="section-title">Office Address</h3>
+								<h3 class="section-title">Physical Address</h3>
 								<div class="contact-info">
 									<h5>Address</h5>
-									<p>5th Street, Carl View - United States</p>
+									<p>1074 Kingbird, Sunningdale - Zimbabwe</p>
 									
 									<h5>Email</h5>
-									<p>info@webthemez.com</p>
+									<p>sunningdaleumczw@gmail.com</p>
 									
 									<h5>Phone</h5>
-									<p>+09 123 1234 123</p>
+									<p>04 576 776</p>
 								</div>
 							</div> 
 						</div> 						
@@ -223,7 +196,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
             <div class="contact-info"> 
             <i class="fa fa-map-marker"></i> 1074 3 Kingbird Road<br>
             <i class="fa fa-phone"></i> 04 576 776<br>
-             <i class="fa fa-envelope-o"></i> sunningdaleumczw@email.com
+             <i class="fa fa-envelope-o"></i> sunningdaleumczw@gmail.com
               </div> 
                 </div><!-- end widget --> 
     </div>
