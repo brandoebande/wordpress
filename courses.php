@@ -265,7 +265,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
               </a>
             </li>
             <li><a href="#">
-                memorial Service
+                Memorial Service
               </a>
             </li>
             <li><a href="#">
