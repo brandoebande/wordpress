@@ -11,8 +11,9 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="description" content="free-educational-responsive-web-template-webEdu">
 	<meta name="author" content="webThemez.com">
-	<title>Sunningdale UMC</title>
-	<link rel="favicon" href="assets/images/favicon.png">
+	<title>Sunningdale United Methodist Church</title>
+	<link rel = "icon" href = "assets/images/favicon.ico"  type = "image/x-icon">
+
 	<link rel="stylesheet" media="screen" href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,700">
 	<link rel="stylesheet" href="assets/css/bootstrap.min.css">
 	<link rel="stylesheet" href="assets/css/font-awesome.min.css">
