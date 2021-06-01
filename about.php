@@ -118,7 +118,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <h3>Our Pastors and Leaders</h3>
+                    <h3>Our Pastor and Leaders</h3>
                     <p></p>
                     <br />
                 </div>
@@ -309,11 +309,11 @@ License URL: http://creativecommons.org/licenses/by/3.0/
     </div>
   </div>
         <div class="social text-center">
-          <a href="#"><i class="fa fa-twitter"></i></a>
-          <a href="https://www.facebook.com/pages/category/Methodist-Church/United-Methodist-Church-Sunningdale-Circuit-987074271500731/"><i class="fa fa-facebook"></i></a>
-          <a href="https://instagram.com/sunningdaleumyf"><i class="fa fa-instagram"></i></a>
-          <a href="https://www.youtube.com/channel/UCG1a0pucBsx1xoRD1qvufRw/"><i class="fa fa-youtube"></i></a>
-          
+        <a href="https://twitter.com/SunningdaleUmc"><i class="fa fa-twitter"></i></a>
+				<a href="https://www.facebook.com/pages/category/Methodist-Church/United-Methodist-Church-Sunningdale-Circuit-987074271500731/"><i class="fa fa-facebook"></i></a>
+				<a href="https://www.instagram.com/sunningdale_umc/"><i class="fa fa-instagram"></i></a>
+				<a href="https://www.youtube.com/channel/UCG1a0pucBsx1xoRD1qvufRw/"><i class="fa fa-youtube"></i></a>
+        
         
         </div>
   
