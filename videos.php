@@ -16,6 +16,7 @@
 	<link rel="stylesheet" type="text/css" href="assets/css/isotope.css" media="screen" />
 	<link rel="stylesheet" href="assets/js/fancybox/jquery.fancybox.css" type="text/css" media="screen" />
 	<link rel="stylesheet" href="assets/css/style.css">
+	<link rel="stylesheet" href="videos.css">
 	<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
 	<!--[if lt IE 9]>
 	<script src="assets/js/html5shiv.js"></script>
@@ -61,169 +62,20 @@
 		<header id="head" class="secondary">
             <div class="container">
                     <h1>Online Videos</h1>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing eliras scele!</p>
+                    <p>Our Sermons</p>
                 </div>
     </header>
 
-
-	<!-- container -->
-	<section class="container">
-		<div class="row">
-			<div class="col-md-12">
-				<section id="portfolio" class="page-section section appear clearfix">
-					<br />
-					<br />
-					<p>
-						At lorem Ipsum available, but the majority have suffered alteration in some form by injected huffered altehe majority have suffered alteration in some form by injected huffered alteration in some form by injected humour.uffered alteration in some form by injected h
-					<br />
-						<br />
-					</p>
-
-
-					<div class="row">
-						<nav id="filter" class="col-md-12 text-center">
-							<ul>
-								<li><a href="#" class="current btn-theme btn-small" data-filter="*">All</a></li>
-								<li><a href="#" class="btn-theme btn-small" data-filter=".webdesign">Development</a></li>
-								<li><a href="#" class="btn-theme btn-small" data-filter=".photography">Designing</a></li>
-								<li><a href="#" class="btn-theme btn-small" data-filter=".print">Tools</a></li>
-							</ul>
-						</nav>
-						<div class="col-md-12">
-							<div class="row">
-								<div class="portfolio-items isotopeWrapper clearfix" id="3">
-
-									<article class="col-sm-4 isotopeItem webdesign">
-										<div class="portfolio-item">
-											<img src="assets/images/portfolio/img1.jpg" alt="" />
-											<div class="portfolio-desc align-center">
-												<div class="folio-info">
-													<a href="assets/images/portfolio/img1.jpg" class="fancybox">
-														<h5>Project Title</h5>
-														<i class="fa fa-link fa-2x"></i></a>
-												</div>
-											</div>
-										</div>
-									</article>
-
-									<article class="col-sm-4 isotopeItem photography">
-										<div class="portfolio-item">
-											<img src="assets/images/portfolio/img2.jpg" alt="" />
-											<div class="portfolio-desc align-center">
-												<div class="folio-info">
-													<a href="assets/images/portfolio/img2.jpg" class="fancybox">
-														<h5>Project Title</h5>
-														<i class="fa fa-link fa-2x"></i></a>
-												</div>
-											</div>
-										</div>
-									</article>
-
-
-									<article class="col-sm-4 isotopeItem photography">
-										<div class="portfolio-item">
-											<img src="assets/images/portfolio/img3.jpg" alt="" />
-											<div class="portfolio-desc align-center">
-												<div class="folio-info">
-													<a href="assets/images/portfolio/img3.jpg" class="fancybox">
-														<h5>Project Title</h5>
-														<i class="fa fa-link fa-2x"></i></a>
-												</div>
-											</div>
-										</div>
-									</article>
-
-									<article class="col-sm-4 isotopeItem print">
-										<div class="portfolio-item">
-											<img src="assets/images/portfolio/img4.jpg" alt="" />
-											<div class="portfolio-desc align-center">
-												<div class="folio-info">
-													<a href="assets/images/portfolio/img4.jpg" class="fancybox">
-														<h5>Project Title</h5>
-														<i class="fa fa-link fa-2x"></i></a>
-												</div>
-											</div>
-										</div>
-									</article>
-
-									<article class="col-sm-4 isotopeItem photography">
-										<div class="portfolio-item">
-											<img src="assets/images/portfolio/img5.jpg" alt="" />
-											<div class="portfolio-desc align-center">
-												<div class="folio-info">
-													<a href="assets/images/portfolio/img5.jpg" class="fancybox">
-														<h5>Project Title</h5>
-														<i class="fa fa-link fa-2x"></i></a>
-												</div>
-											</div>
-										</div>
-									</article>
-
-									<article class="col-sm-4 isotopeItem webdesign">
-										<div class="portfolio-item">
-											<img src="assets/images/portfolio/img6.jpg" alt="" />
-											<div class="portfolio-desc align-center">
-												<div class="folio-info">
-													<a href="assets/images/portfolio/img6.jpg" class="fancybox">
-														<h5>Project Title</h5>
-														<i class="fa fa-link fa-2x"></i></a>
-												</div>
-											</div>
-										</div>
-									</article>
-
-									<article class="col-sm-4 isotopeItem print">
-										<div class="portfolio-item">
-											<img src="assets/images/portfolio/img7.jpg" alt="" />
-											<div class="portfolio-desc align-center">
-												<div class="folio-info">
-													<a href="images/portfolio/img7.jpg" class="fancybox">
-														<h5>Project Title</h5>
-														<i class="fa fa-link fa-2x"></i></a>
-												</div>
-											</div>
-										</div>
-									</article>
-
-									<article class="col-sm-4 isotopeItem photography">
-										<div class="portfolio-item">
-											<img src="assets/images/portfolio/img8.jpg" alt="" />
-											<div class="portfolio-desc align-center">
-												<div class="folio-info">
-													<a href="images/portfolio/img8.jpg" class="fancybox">
-														<h5>Project Title</h5>
-														<i class="fa fa-link fa-2x"></i></a>
-												</div>
-											</div>
-										</div>
-									</article>
-
-									<article class="col-sm-4 isotopeItem print">
-										<div class="portfolio-item">
-											<img src="assets/images/portfolio/img9.jpg" alt="" />
-											<div class="portfolio-desc align-center">
-												<div class="folio-info">
-													<a href="images/portfolio/img9.jpg" class="fancybox">
-														<h5>Project Title</h5>
-														<i class="fa fa-link fa-2x"></i></a>
-												</div>
-											</div>
-										</div>
-									</article>
-								</div>
-
-							</div>
-
-
-						</div>
-					</div>
-
-				</section>
-			</div>
-		</div>
-
-	</section>
-	<!-- /container -->
+<div class = 'videos-container'>
+	<div id = 'main-video' >
+	<iframe  height='480px' width= '852px' src="https://www.youtube.com/embed/UFvdpMBJ4c8">
+   </iframe>
+	</div>
+	<div id = 'other-videos'>
+	other Videos
+	</div>
+	
+</div>
 	<footer id="footer">
  
 		<div class="container">
@@ -264,7 +116,7 @@
         <div class="menu-course">
           <ul class="menu">
             <li> <a href="#">
-                Cherry na Toby  </a>
+                		Wedding diaries </a>
             </li>
             <li><a href="#">
                 Installation of Solar gyser

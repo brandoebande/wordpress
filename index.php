@@ -86,7 +86,9 @@
 							
     
 </header>
+<section class="news-box top-margin">       
   <div class="container">
+  <h2><span>Our Organizations</span></h2>
     <div class="row">
 					<div class="col-md-3">
 						<div class="grey-box-icon">
@@ -306,7 +308,7 @@
         <div class="menu-course">
           <ul class="menu">
             <li> <a href="#">
-                Cherry na Toby  </a>
+                Wedding diaries </a>
             </li>
             <li><a href="#">
                 Installation of Solar gyser
@@ -367,7 +369,7 @@
   </div>
 </div>
 			<div class="social text-center">
-				<a href="#"><i class="fa fa-twitter"></i></a>
+				<a href="https://twitter.com/SunningdaleUmc"><i class="fa fa-twitter"></i></a>
 				<a href="https://www.facebook.com/pages/category/Methodist-Church/United-Methodist-Church-Sunningdale-Circuit-987074271500731/"><i class="fa fa-facebook"></i></a>
 				<a href="https://instagram.com/sunningdaleumyf"><i class="fa fa-instagram"></i></a>
 				<a href="https://www.youtube.com/channel/UCG1a0pucBsx1xoRD1qvufRw/"><i class="fa fa-youtube"></i></a>

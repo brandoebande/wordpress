@@ -74,12 +74,10 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 	<div class="container">
 				<div class="row">
 					<div class="col-md-8">
-					<div id="googleMap" style="width:100%;height:400px;overflow:scroll;">
-						
-					<img src="assets/images/map.PNG"  scrolling="yes" frameborder="1" >
 					
-					</div>
-
+					<div id = 'main-vdetails'>
+	                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d949.3048070228513!2d31.048878762166588!3d-17.8751997575649!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1931a365f3695a09%3A0x4add6bd97e48371e!2sSunningdale%20United%20Methodist%20Church!5e0!3m2!1sen!2szw!4v1622439929784!5m2!1sen!2szw" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+	                 </div>
 
 					</div>
 					<div class="col-md-4">
@@ -143,7 +141,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
         <div class="menu-course">
           <ul class="menu">
             <li> <a href="#">
-                Cherry na Toby  </a>
+                Wedding diaries </a>
             </li>
             <li><a href="#">
                 Installation of Solar gyser
@@ -204,9 +202,9 @@ License URL: http://creativecommons.org/licenses/by/3.0/
   </div>
 </div>
 			<div class="social text-center">
-				<a href="#"><i class="fa fa-twitter"></i></a>
+				<a href="https://twitter.com/SunningdaleUmc"><i class="fa fa-twitter"></i></a>
 				<a href="https://www.facebook.com/pages/category/Methodist-Church/United-Methodist-Church-Sunningdale-Circuit-987074271500731/"><i class="fa fa-facebook"></i></a>
-				<a href="https://instagram.com/sunningdaleumyf"><i class="fa fa-instagram"></i></a>
+				<a href="https://www.instagram.com/sunningdale_umc/"><i class="fa fa-instagram"></i></a>
 				<a href="https://www.youtube.com/channel/UCG1a0pucBsx1xoRD1qvufRw/"><i class="fa fa-youtube"></i></a>
         
 			

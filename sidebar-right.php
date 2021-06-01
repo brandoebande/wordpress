@@ -64,8 +64,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 
 	<header id="head" class="secondary">
             <div class="container">
-                    <h1>Sidebar Heading</h1>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing eliras scele!</p>
+                    <h1>Ruwadzano RweWadzimai</h1>
+                    <p>RRW</p>
                 </div>
     </header>
 
@@ -160,7 +160,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
         <div class="menu-course">
           <ul class="menu">
             <li> <a href="#">
-                Cherry na Toby  </a>
+                Wedding diaries</a>
             </li>
             <li><a href="#">
                 Installation of Solar gyser
