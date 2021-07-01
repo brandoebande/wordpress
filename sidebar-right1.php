@@ -64,8 +64,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 
 	<header id="head" class="secondary">
             <div class="container">
-                    <h1>Ruwadzano RweWadzimai</h1>
-                    <p>RRW</p>
+                    <h1>Mubvuwi weUnited Methodist Church</h1>
+                    <p>MUMC</p>
                 </div>
     </header>
 
@@ -84,6 +84,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
           </iframe>
 	      </div>
 	     <div id = 'other-videos'>
+		 <a href="https://www.youtube.com/channel/UCG1a0pucBsx1xoRD1qvufRw?sub_confirmation=1"> <img src="assets/images/sub3.jpg" width="150px"  alt="" style="border: radius 3%;"></a>
 		 </article>
 			<!-- /Article -->
 

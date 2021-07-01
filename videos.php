@@ -46,9 +46,9 @@
 						<ul class="dropdown-menu">
 							
 						<li><a href="sidebar-right.php">RRW</a></li>
-						<li><a href="sidebar-right.php">MUMC</a></li>
-						<li><a href="sidebar-right.php">UMYF</a></li>
-						<li><a href="sidebar-right.php">JSS</a></li>
+						<li><a href="sidebar-right1.php">MUMC</a></li>
+						<li><a href="sidebar-right2.php">UMYF</a></li>
+						<li><a href="sidebar-right3.php">JSS</a></li>
 					
 					</li>
 					<li><a href="contact.php">Contact</a></li>
@@ -208,7 +208,7 @@
 					<div class="col-md-6 panel">
 						<div class="panel-body">
 							<p class="text-right">
-								Copyright &copy; 2021.<a href="http://webthemez.com/" rel="develop">Sunningdale United Methodist Church</a>
+								Sunningdale United Methodist Church   &copy; <?php echo date("Y");?>
 							</p>
 						</div>
 					</div>

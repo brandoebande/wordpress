@@ -48,9 +48,9 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 						<a href="#" class="dropdown-toggle" data-toggle="dropdown">Organisations <b class="caret"></b></a>
 						<ul class="dropdown-menu">
 							<li><a href="sidebar-right.php">RRW</a></li>
-							<li><a href="sidebar-right.php">MUMC</a></li>
-							<li><a href="sidebar-right.php">UMYF</a></li>
-							<li><a href="sidebar-right.php">JSS</a></li>
+							<li><a href="sidebar-right1.php">MUMC</a></li>
+							<li><a href="sidebar-right2.php">UMYF</a></li>
+							<li><a href="sidebar-right3.php">JSS</a></li>
 						
 						</ul>
 					</li>
@@ -84,7 +84,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
           </iframe>
 	      </div>
 	     <div id = 'other-videos'>
-		 <a href="https://www.youtube.com/channel/UCG1a0pucBsx1xoRD1qvufRw?sub_confirmation=1"> <img src="assets/images/ytd.jpg" width="150px"  alt="" style="border: radius 3%;"></a>
+		 <a href="https://www.youtube.com/channel/UCG1a0pucBsx1xoRD1qvufRw?sub_confirmation=1"> <img src="assets/images/sub3.jpg" width="150px"  alt="" style="border: radius 3%;"></a>
 		 </article>
 			<!-- /Article -->
 		

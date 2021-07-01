@@ -13,7 +13,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 	<meta name="author" content="webThemez.com">
 	<title>Sunningdale United Methodist Church</title>
 	<link rel = "icon" href = "assets/images/favicon.ico"  type = "image/x-icon">
-
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
 	<link rel="stylesheet" media="screen" href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,700">
 	<link rel="stylesheet" href="assets/css/bootstrap.min.css">
 	<link rel="stylesheet" href="assets/css/font-awesome.min.css">
@@ -64,8 +64,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 
 	<header id="head" class="secondary">
             <div class="container">
-                    <h1>Ruwadzano RweWadzimai</h1>
-                    <p>RRW</p>
+                    <h1>Junior Sunday School</h1>
+                    <p>JSS</p>
                 </div>
     </header>
 
@@ -79,14 +79,13 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 				<br />
 				<br />
 				<div class = 'videos-container'>
-	     <div id = 'main-video' >
-	      <iframe  height='480px' width= '750px' src="https://www.youtube.com/embed/UFvdpMBJ4c8">
-          </iframe>
-	      </div>
-	     <div id = 'other-videos'>
+	     
+		 <a href="https://twitter.com/SunningdaleUmc?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow </a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+		<a href="https://www.facebook.com/pages/category/Methodist-Church/United-Methodist-Church-Sunningdale-Circuit-987074271500731"class="facebook-share-button" data-show-count="false">Share</a><script async src="https://platform.facebook.com/widgets.js" charset="utf-8"></script>
+</a>
+		
 		 </article>
 			<!-- /Article -->
-
 
 			 <!-- Sidebar -->
 			 <aside class="col-sm-4 sidebar sidebar-right">
