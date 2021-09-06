@@ -67,26 +67,24 @@
     </header>
 
 <div class = 'videos-container'>
-	<div id = 'main-video'class="embed-responsive embed-responsive-16by9" >
-		<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/UFvdpMBJ4c8" allowfullscreen></iframe>
+		<div id = 'main-video' >
+			<div class="embed-responsive embed-responsive-16by9">
+				<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/UFvdpMBJ4c8" allowfullscreen></iframe>
+			</div>
+			<div  style ='overflow-y: scroll;'>
+			Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repellat quasi commodi doloremque veritatis. Nulla, tempora, ipsum dolores laborum veniam ducimus aliquid aspernatur omnis veritatis eligendi voluptatum consectetur, officiis quis expedita nesciunt at! Nostrum, totam. Natus, asperiores! Soluta dolorum nobis expedita rem, animi voluptate hic nihil dignissimos illo voluptatibus sunt omnis esse est pariatur fuga dolores illum, quia at. Magnam odit, itaque mollitia nobis inventore optio quo id aperiam, enim tenetur quam, illo maiores earum! Rem sapiente laborum quis dignissimos nemo sequi sunt culpa perspiciatis ducimus cumque at, rerum, nam praesentium illo. Deserunt facilis, adipisci ex dolores hic repellendus nisi! Sapiente, eligendi? Natus pariatur quas sapiente autem distinctio et, nulla voluptatem maiores voluptate aliquam harum ad qui id maxime ipsa commodi?
+			</div>
+		</div>
+	<div id = 'other-videos' >
+			<div style='height:150px;color=red;'> Other VID
+			</div>
+			<div style='height:150px;color=red;'> Other VID
+			</div>
+			<div style='height:150px;color=red;'> Other VID
+			
+			</div>
 	</div>
-	<div id = 'other-videos' style ='overflow-y: scroll;'>
-			<div style='height:150px;color=red;'> Other VID
-			</div>
-			<div style='height:150px;color=red;'> Other VID
-			</div>
-			<div style='height:150px;color=red;'> Other VID
-			</div>
-			<div style='height:150px;color=red;'> Other VID
-			</div>
-			<div style='height:150px;color=red;'> Other VID
-			</div>
-			<div style='height:150px;color=red;'> Other VID
-			</div>
-	</div>
-	<div id = 'main-vdetails' style ='overflow-y: scroll;'>
-	     Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos iusto aliquid commodi corporis atque. Molestias, ipsam necessitatibus, libero aliquid doloremque soluta impedit tempora aliquam officia quidem fugit consectetur maiores nesciunt labore. Perspiciatis magnam fuga temporibus dolor, consequatur aliquid dolorum laboriosam nemo non ab. Debitis, repellat enim est in at nisi reiciendis consequuntur quo officia similique vitae quod! Nostrum necessitatibus expedita quod dolorum ducimus? Qui ratione repellat illo, quis est iusto? Minima nobis dolorum a vitae atque dolor ab maxime tenetur perspiciatis est fugit necessitatibus commodi eveniet ipsam, voluptatum deserunt expedita repellendus recusandae accusamus nisi reiciendis blanditiis culpa dicta unde! Earum aperiam quia delectus ut soluta, fuga eum non autem, cumque, nostrum modi quo accusamus aliquam! Quasi, iure magni at vero similique suscipit voluptates aut culpa repellat, adipisci nam facilis ut tempora optio sint quam itaque eaque alias pariatur obcaecati, officia fuga? Fugiat cum illo minus ullam dolorem. Quis perferendis distinctio dolorem ex neque similique est, numquam aliquid impedit tempora, quod at ipsa magni dolores labore. Culpa veniam aspernatur dolor repudiandae harum sequi, iusto quos quisquam sapiente, repellat illum nihil? Nobis, placeat quaerat. Iure aperiam laudantium iusto magni, impedit, eligendi vel sunt in iste laboriosam nobis. Blanditiis iste neque, amet aliquid veritatis ducimus commodi reprehenderit asperiores molestiae tempore sit ea suscipit molestias dignissimos nostrum quisquam eaque dolorem? Tempore optio architecto nulla harum, consequatur quasi voluptatem eum ipsum aliquid iste aperiam rerum ab quisquam magni culpa beatae repellat qui magnam. Optio et quasi accusantium ipsam, vero ducimus illo, rem vitae omnis dolorem itaque eligendi distinctio, dolorum officiis! Voluptatum assumenda, a suscipit qui autem officiis aut adipisci quis. Perspiciatis ipsa minima ad id magni consequuntur blanditiis fugit quam aliquid unde officia dolor velit deserunt, quis in nihil omnis inventore distinctio. Iure ea aut quos deserunt deleniti nihil hic laudantium dolores nobis quidem quasi, maiores et ratione, dolorem cupiditate quae molestiae ipsa autem. Earum, rem, soluta molestiae corrupti quas voluptatibus a suscipit aliquid nam id consectetur. Provident repellat deserunt laudantium est. Laboriosam itaque aut eum deserunt voluptatem nihil adipisci distinctio, quas a soluta animi eius hic accusamus officiis consequuntur minus in voluptatum minima, labore, ducimus maiores eligendi! Modi possimus quam repellendus, magnam accusamus voluptatem neque maxime optio voluptas nesciunt laudantium quaerat sequi expedita, dolores tempore odio in saepe quidem magni molestias, ea exercitationem perspiciatis et. Distinctio asperiores facere saepe tenetur, hic animi dignissimos minus!
-	</div>
+	
 </div>
 	<footer id="footer">
  
