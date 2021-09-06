@@ -9,8 +9,10 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="description" content="free-educational-responsive-web-template-webEdu">
 	<meta name="author" content="webThemez.com">
-	<title>Sunningdale United methodist Church</title>
-	<link rel="favicon" href="assets/images/favicon.png">
+	<title>
+  Sunningdale United methodist Church</title>
+  <link rel = "icon" href = "assets/images/favicon.ico"  type = "image/x-icon">
+
 	<link rel="stylesheet" media="screen" href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,700">
 	<link rel="stylesheet" href="assets/css/bootstrap.min.css">
 	<link rel="stylesheet" href="assets/css/font-awesome.min.css"> 
@@ -44,9 +46,9 @@
 						<a href="#" class="dropdown-toggle" data-toggle="dropdown">Organisations <b class="caret"></b></a>
 						<ul class="dropdown-menu">
 							<li><a href="sidebar-right.php">RRW</a></li>
-              <li><a href="sidebar-right.php">MUMC</a></li>
-              <li><a href="sidebar-right.php">UMYF</a></li>
-              <li><a href="sidebar-right.php">JSS</a></li>
+              <li><a href="sidebar-right1.php">MUMC</a></li>
+              <li><a href="sidebar-right2.php">UMYF</a></li>
+              <li><a href="sidebar-right3.php">JSS</a></li>
               
 						</ul>
 					</li>
@@ -84,48 +86,56 @@
 							
     
 </header>
+<section class="news-box top-margin">       
   <div class="container">
+  <h2><span>Our Organizations</span></h2>
     <div class="row">
 					<div class="col-md-3">
 						<div class="grey-box-icon">
 							<div class="icon-box-top grey-box-icon-pos">
+              <a href="sidebar-right1.php">
 								<img src="assets/images/mumc.png" height=150px alt="" />
 							</div><!--icon box top -->
+            
 							<h4>MUMC</h4>
 							<p><i> Mubvuwi weUnited Methodist Church</i></p>
+              </a>
 
           	</div><!--grey box -->
 					</div><!--/span3-->
 					<div class="col-md-3">
 						<div class="grey-box-icon">
 							<div class="icon-box-top grey-box-icon-pos">
+              <a href="sidebar-right.php">
 								<img src="assets/images/RRW.jpg"height= 150px alt="" />
 							</div><!--icon box top -->
 							<h4>RRW</h4>
 							<p><i>Ruwadzano RweWadzimai</i></p>
-     					
+     					</a>
 						</div><!--grey box -->
 					</div><!--/span3-->
 					<div class="col-md-3">
 						<div class="grey-box-icon">
 							<div class="icon-box-top grey-box-icon-pos">
+              <a href="sidebar-right2.php">
 								<img src="assets/images/UMYF.jpg" height= 150px alt="" />
 							</div><!--icon box top -->
 							<h4>UMYF</h4>
 							<p><i>United Methodist Youth Fellowship</i></p>	
-        
+        </a>
 						</div><!--grey box -->
 					</div><!--/span3-->
 					<div class="col-md-3">
 						<div class="grey-box-icon">
 							<div class="icon-box-top grey-box-icon-pos">
+              <a href="sidebar-right.php">
 								<img src="assets/images/CHILDREN.jpg"height=150px alt="" />
 							</div><!--icon box top -->
 							<h4>JSS</h4>
 							<p><i>Junior Sunday School</i></p>
-     				
+     				</a>
 						</div><!--grey box -->
-					</div><!--/span3-->
+					</div><!--/span3-->.
 				</div>
     </div>
       <section class="news-box top-margin">
@@ -304,7 +314,7 @@
         <div class="menu-course">
           <ul class="menu">
             <li> <a href="#">
-                Cherry na Toby  </a>
+                Wedding diaries </a>
             </li>
             <li><a href="#">
                 Installation of Solar gyser
@@ -365,9 +375,9 @@
   </div>
 </div>
 			<div class="social text-center">
-				<a href="#"><i class="fa fa-twitter"></i></a>
+			<a href="https://twitter.com/SunningdaleUmc"><i class="fa fa-twitter"></i></a>
 				<a href="https://www.facebook.com/pages/category/Methodist-Church/United-Methodist-Church-Sunningdale-Circuit-987074271500731/"><i class="fa fa-facebook"></i></a>
-				<a href="https://instagram.com/sunningdaleumyf"><i class="fa fa-instagram"></i></a>
+				<a href="https://www.instagram.com/sunningdale_umc/"><i class="fa fa-instagram"></i></a>
 				<a href="https://www.youtube.com/channel/UCG1a0pucBsx1xoRD1qvufRw/"><i class="fa fa-youtube"></i></a>
         
 			
@@ -396,7 +406,7 @@
 					<div class="col-md-6 panel">
 						<div class="panel-body">
 							<p class="text-right">
-								Copyright &copy; 2021.<a href="http://webthemez.com/" rel="develop">Sunningdale United Methodist Church</a>
+								Sunningdale United Methodist Church   &copy; <?php echo date("Y");?>
 							</p>
 						</div>
 					</div>

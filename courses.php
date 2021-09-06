@@ -11,8 +11,9 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="description" content="free-educational-responsive-web-template-webEdu">
 	<meta name="author" content="webThemez.com">
-	<title>Sunningdale UMC</title>
-	<link rel="favicon" href="assets/images/favicon.png">
+	<title>Sunningdale United Methodist Church</title>
+	<link rel = "icon" href = "assets/images/favicon.ico"  type = "image/x-icon">
+	
 	<link rel="stylesheet" media="screen" href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,700">
 	<link rel="stylesheet" href="assets/css/bootstrap.min.css">
 	<link rel="stylesheet" href="assets/css/font-awesome.min.css">
@@ -47,9 +48,9 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 						<a href="#" class="dropdown-toggle" data-toggle="dropdown">Organisations <b class="caret"></b></a>
 						<ul class="dropdown-menu">
 							<li><a href="sidebar-right.php">RRW</a></li>
-							<li><a href="sidebar-right.php">MUMC</a></li>
-							<li><a href="sidebar-right.php">UMYF</a></li>
-							<li><a href="sidebar-right.php">JSS</a></li>
+							<li><a href="sidebar-right1.php">MUMC</a></li>
+							<li><a href="sidebar-right2.php">UMYF</a></li>
+							<li><a href="sidebar-right3.php">JSS</a></li>
 						</ul>
 					</li>
 					<li><a href="contact.php">Contact</a></li>
@@ -74,146 +75,71 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 </p>
 <br/>
 <ul class="list-unstyled video-list-thumbs row">
-	<li class="col-lg-3 col-sm-4 col-xs-6">
-		<a href="#" title="Claudio Bravo, antes su debut con el Barça en la Liga">
-			<img src="http://i.ytimg.com/vi/ZKOtE9DOwGE/mqdefault.jpg" alt="Barca" class="img-responsive" height="130px" />
-			<h2>Claudio Bravo, antes su debut con el Barça en la Liga</h2>
-			<span class="play-button"></span>
-			<span class="duration">03:15</span>
-		</a>
+<li class="col-lg-3 col-sm-4 col-xs-6">
+	<iframe  height='150px' width= '280px' src="https://www.youtube.com/embed/UFvdpMBJ4c8">
+   </iframe>
+  
 	</li>
 	<li class="col-lg-3 col-sm-4 col-xs-6">
-		<a href="#" title="Claudio Bravo, antes su debut con el Barça en la Liga">
-			<img src="http://i.ytimg.com/vi/ZKOtE9DOwGE/mqdefault.jpg" alt="Barca" class="img-responsive" height="130px" />
-			<h2>Claudio Bravo, antes su debut con el Barça en la Liga</h2>
-			<span class="play-button"></span>
-			<span class="duration">03:15</span>
-		</a>
+	<iframe  height='150px' width= '280px' src="https://www.youtube.com/embed/UFvdpMBJ4c8">
+   </iframe>
+  
+	</li>
+	
+	<li class="col-lg-3 col-sm-4 col-xs-6">
+	<iframe  height='150px' width= '280px' src="https://www.youtube.com/embed/UFvdpMBJ4c8">
+   </iframe>
+  
 	</li>
 	<li class="col-lg-3 col-sm-4 col-xs-6">
-		<a href="#" title="Claudio Bravo, antes su debut con el Barça en la Liga">
-			<img src="http://i.ytimg.com/vi/ZKOtE9DOwGE/mqdefault.jpg" alt="Barca" class="img-responsive" height="130px" />
-			<h2>Claudio Bravo, antes su debut con el Barça en la Liga</h2>
-			<span class="play-button"></span>
-			<span class="duration">03:15</span>
-		</a>
-	</li>
-	<li class="col-lg-3 col-md-4 col-sm-4 col-xs-6">
-		<a href="#" title="Claudio Bravo, antes su debut con el Barça en la Liga">
-			<img src="http://i.ytimg.com/vi/ZKOtE9DOwGE/mqdefault.jpg" alt="Barca" class="img-responsive" height="130px" />
-			<h2>Claudio Bravo, antes su debut con el Barça en la Liga</h2>
-			<span class="play-button"></span>
-			<span class="duration">03:15</span>
-		</a>
-	</li> 
-</ul>
-<ul class="list-unstyled video-list-thumbs row">
-	<li class="col-lg-3 col-sm-4 col-xs-6">
-		<a href="#" title="Claudio Bravo, antes su debut con el Barça en la Liga">
-			<img src="http://i.ytimg.com/vi/ZKOtE9DOwGE/mqdefault.jpg" alt="Barca" class="img-responsive" height="130px" />
-			<h2>Claudio Bravo, antes su debut con el Barça en la Liga</h2>
-			<span class="play-button"></span>
-			<span class="duration">03:15</span>
-		</a>
+	<iframe  height='150px' width= '280px' src="https://www.youtube.com/embed/UFvdpMBJ4c8">
+   </iframe>
+  
 	</li>
 	<li class="col-lg-3 col-sm-4 col-xs-6">
-		<a href="#" title="Claudio Bravo, antes su debut con el Barça en la Liga">
-			<img src="http://i.ytimg.com/vi/ZKOtE9DOwGE/mqdefault.jpg" alt="Barca" class="img-responsive" height="130px" />
-			<h2>Claudio Bravo, antes su debut con el Barça en la Liga</h2>
-			<span class="play-button"></span>
-			<span class="duration">03:15</span>
-		</a>
+	<iframe  height='150px' width= '280px' src="https://www.youtube.com/embed/UFvdpMBJ4c8">
+   </iframe>
+  
 	</li>
 	<li class="col-lg-3 col-sm-4 col-xs-6">
-		<a href="#" title="Claudio Bravo, antes su debut con el Barça en la Liga">
-			<img src="http://i.ytimg.com/vi/ZKOtE9DOwGE/mqdefault.jpg" alt="Barca" class="img-responsive" height="130px" />
-			<h2>Claudio Bravo, antes su debut con el Barça en la Liga</h2>
-			<span class="play-button"></span>
-			<span class="duration">03:15</span>
-		</a>
+	<iframe  height='150px' width= '280px' src="https://www.youtube.com/embed/UFvdpMBJ4c8">
+   </iframe>
+  
 	</li>
-	<li class="col-lg-3 col-md-4 col-sm-4 col-xs-6">
-		<a href="#" title="Claudio Bravo, antes su debut con el Barça en la Liga">
-			<img src="http://i.ytimg.com/vi/ZKOtE9DOwGE/mqdefault.jpg" alt="Barca" class="img-responsive" height="130px" />
-			<h2>Claudio Bravo, antes su debut con el Barça en la Liga</h2>
-			<span class="play-button"></span>
-			<span class="duration">03:15</span>
-		</a>
-	</li> 
-</ul>
+	<li class="col-lg-3 col-sm-4 col-xs-6">
+	<iframe  height='150px' width= '280px' src="https://www.youtube.com/embed/UFvdpMBJ4c8">
+   </iframe>
+  
+	</li>
+	<li class="col-lg-3 col-sm-4 col-xs-6">
+	<iframe  height='150px' width= '280px' src="https://www.youtube.com/embed/UFvdpMBJ4c8">
+   </iframe>
+  
+	</li>
 
+<li class="col-lg-3 col-sm-4 col-xs-6">
+	<iframe  height='150px' width= '280px' src="https://www.youtube.com/embed/UFvdpMBJ4c8">
+   </iframe>
+  
+	</li>
+	<li class="col-lg-3 col-sm-4 col-xs-6">
+	<iframe  height='150px' width= '280px' src="https://www.youtube.com/embed/UFvdpMBJ4c8">
+   </iframe>
+  
+	</li>
+	<li class="col-lg-3 col-sm-4 col-xs-6">
+	<iframe  height='150px' width= '280px' src="https://www.youtube.com/embed/UFvdpMBJ4c8">
+   </iframe>
+  
+	</li>
+	<li class="col-lg-3 col-sm-4 col-xs-6">
+	<iframe  height='150px' width= '280px' src="https://www.youtube.com/embed/UFvdpMBJ4c8">
+   </iframe>
+  
+	</li>
 </div>
 	<div id="courses">
-		<section class="container">
-			<h3>Development Courses</h3>
-			<div class="row">
-				<div class="col-md-4">
-					<div class="featured-box"> 
-						<div class="text">
-							<h3>Responsive Design</h3>
-							Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-						</div>
-					</div>
-				</div>
-				<div class="col-md-4">
-					<div class="featured-box"> 
-						<div class="text">
-							<h3>HTML5/CSS3</h3>
-							Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-						</div>
-					</div>
-				</div>
-				<div class="col-md-4">
-					<div class="featured-box"> 
-						<div class="text">
-							<h3>Web Designing</h3>
-							Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="row">
-				<div class="col-md-4">
-					<div class="featured-box"> 
-						<div class="text">
-							<h3>Web App Dev</h3>
-							Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-						</div>
-					</div>
-				</div>
-				<div class="col-md-4">
-					<div class="featured-box"> 
-						<div class="text">
-							<h3>Data Base</h3>
-							Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-						</div>
-					</div>
-				</div>
-				<div class="col-md-4">
-					<div class="featured-box"> 
-						<div class="text">
-							<h3>Mobile App Dev</h3>
-							Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-						</div>
-					</div>
-				</div>
-			</div>
-
-		</section>
-	</div>
-    
-	<!-- container -->
-	<div class="container">
-		<div class="row">
-			<!-- Article content -->
-			<section class="col-sm-12 maincontent">
-				<h3>Responsive Website</h3>
-				<p>
-					Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-				</p>
-				<h3>Bootstrap</h3>
-				<p>Standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-			</section>
+		
 		</div>
 	</div>
 	<!-- /container -->
@@ -257,15 +183,15 @@ License URL: http://creativecommons.org/licenses/by/3.0/
         <div class="menu-course">
           <ul class="menu">
             <li> <a href="#">
-                Cherry na Toby  </a>
+                	Wedding diaries  </a>
             </li>
             <li><a href="#">
                 Installation of Solar gyser
-                at the passornage
+        
               </a>
             </li>
             <li><a href="#">
-                memorial Service
+                Memorial Service
               </a>
             </li>
             <li><a href="#">
@@ -318,7 +244,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
   </div>
 </div>
 			<div class="social text-center">
-				<a href="#"><i class="fa fa-twitter"></i></a>
+			<a href="https://twitter.com/SunningdaleUmc"><i class="fa fa-twitter"></i></a>
 				<a href="https://www.facebook.com/pages/category/Methodist-Church/United-Methodist-Church-Sunningdale-Circuit-987074271500731/"><i class="fa fa-facebook"></i></a>
 				<a href="https://www.instagram.com/sunningdale_umc/"><i class="fa fa-instagram"></i></a>
 				<a href="https://www.youtube.com/channel/UCG1a0pucBsx1xoRD1qvufRw/"><i class="fa fa-youtube"></i></a>
@@ -349,7 +275,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 					<div class="col-md-6 panel">
 						<div class="panel-body">
 							<p class="text-right">
-								Copyright &copy; 2021.<a href="http://webthemez.com/" rel="develop">Sunningdale United Methodist Church</a>
+								Sunningdale United Methodist Church   &copy; <?php echo date("Y");?>
 							</p>
 						</div>
 					</div>
