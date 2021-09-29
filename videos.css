@@ -8,6 +8,10 @@
     grid-template-areas: "main-video other-videos"
                         "main-video other-videos";
 }
+::-webkit-scrollbar {
+    width: 0;  /* Remove scrollbar space */
+    background: transparent;  /* Optional: just make scrollbar invisible */
+}
 
 #main-video{
 
@@ -37,6 +41,7 @@
     #other-videos{
         display: grid;
         grid-template-columns: 1fr 1fr 1fr 1fr ;
+        overflow-y: hidden;
         overflow-x: scroll;
         grid-area: other-videos ;
     }

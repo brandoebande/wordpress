@@ -1,25 +1,39 @@
-<!DOCTYPE html> 
-    <html> 
-    <body> 
-    <video id="myVideo" width="320" height="176" controls>
-      <source src="mov_bbb.mp4" type="video/mp4">
-    </video>
+<?php
 
-    <script>
-        $(document).ready(function(){
-            var vid = document.getElementById("myVideo");
-            //Converting seconds to miliseconds.
-            var durationOfVideo   = parseInt(vid.duration * 1000);
-            setTimeout(function(){
-                alert("Hello"); 
-            }, durationOfVideo);
+    $tutorials = array(
+        array('link'=>'D5d5wGkbn6o' , 
+            'readings'=>'N/A',
+            'theme'=>'Just a tune',
+            'preacher'=> 'Rev Bande',
+            'decr'=>'Random site sampling description 01'),
+        array('link'=>'QBY9DvHi4Tk' ,
+             'readings'=>'Michael Todd',
+             'theme'=>'',
+             'preacher'=> '',
+             'decr'=>''),
+        array('link'=>'dznoeeOCyLA' 
+            , 'readings'=>'',
+            'theme'=>'',
+            'preacher'=> 'C. Chiwona',
+            'decr'=>''),
+        array('link'=>'-aCJtxibSpA' 
+            , 'readings'=>'',
+            'theme'=>'',
+            'preacher'=> 'LAsaGnA',
+            'decr'=>''),
+        array('link'=>'QHi6WXg1C-U' , 
+                    'readings'=>'',
+                    'theme'=>'',
+                    'preacher'=> 'Evangelist Matanhire',
+                    'decr'=>'')
+    );
 
-    });
+?>
 
-    </script> 
+<html>
+<body>
 
-
-    </body> 
-    </html>
-
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<img src="https://img.youtube.com/vi/UFvdpMBJ4c8/1.jpg" alt="Italian Trulli">
+    
+</body>
+</html>

@@ -1,3 +1,60 @@
+<?php
+	$tutorials = array(
+        array('link'=>'D5d5wGkbn6o' , 
+            'readings'=>'N/A',
+            'theme'=>'00',
+            'preacher'=> 'Rev Bande',
+            'decr'=>'00'),
+        array('link'=>'QBY9DvHi4Tk' ,
+             'readings'=>'Michael Todd',
+             'theme'=>'01',
+             'preacher'=> '',
+             'decr'=>''),
+        array('link'=>'dznoeeOCyLA' 
+            , 'readings'=>'',
+            'theme'=>'02',
+            'preacher'=> 'C. Chiwona',
+            'decr'=>''),
+        array('link'=>'-aCJtxibSpA' 
+            , 'readings'=>'',
+            'theme'=>'03',
+            'preacher'=> 'LAsaGnA',
+            'decr'=>''),
+			array('link'=>'D5d5wGkbn6o' , 
+            'readings'=>'N/A',
+            'theme'=>'00',
+            'preacher'=> 'Rev Bande',
+            'decr'=>'00'),
+        array('link'=>'QBY9DvHi4Tk' ,
+             'readings'=>'Michael Todd',
+             'theme'=>'01',
+             'preacher'=> '',
+             'decr'=>''),
+        array('link'=>'dznoeeOCyLA' 
+            , 'readings'=>'',
+            'theme'=>'02',
+            'preacher'=> 'C. Chiwona',
+            'decr'=>''),
+        array('link'=>'-aCJtxibSpA' 
+            , 'readings'=>'',
+            'theme'=>'03',
+            'preacher'=> 'LAsaGnA',
+            'decr'=>''),
+        array('link'=>'QHi6WXg1C-U' , 
+                    'readings'=>'',
+                    'theme'=>'04',
+                    'preacher'=> 'Evangelist Matanhire',
+                    'decr'=>'')
+    );
+
+	if(!empty($_GET["id"])){
+		$id =  (int)$_GET['id'];
+		var_dump($id);
+	}else{
+		$id = 0 ;
+	}
+	
+?>	
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -67,28 +124,27 @@
     </header>
 
 <div class = 'videos-container'>
-		<div id = 'main-video' >
+		<div id = 'main-video' style="padding:2px" >
 			<div class="embed-responsive embed-responsive-16by9">
-				<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/UFvdpMBJ4c8" allowfullscreen></iframe>
+			<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/<?php echo $tutorials[$id]['link']; ?>" allowfullscreen></iframe>
 			</div>
 			<div  style ='overflow-y: scroll;'>
 			<p> Ash Wednesday </p>
-			<p>Preacher : Rev D Mupaya </p>
-			<p>Bible Readings:</p>
-			<p>Theme :</p>
+			<p>Preacher : <?php echo $tutorials[$id]['preacher']; ?> </p>
+			<p>Bible Readings: <?php echo $tutorials[$id]['readings']; ?></p>
+			<p>Theme : <?php echo $tutorials[$id]['theme']; ?></p>
 			</div>
 		</div>
-	<div id = 'other-videos' >
-			<div style='height:150px;color=red;'> Other VID
-			<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/UFvdpMBJ4c8" allowfullscreen></iframe>
+	<div id = 'other-videos'style=padding:2px;' >
+	<?php 
+			for($i =0;$i<sizeof($tutorials);$i++){
+	?>
+			<div style='height:150px;color=red;padding:2px;'> 
+					<a href ="videos.php?id=<?php echo $i; ?>"><img class = "center-block" src="https://img.youtube.com/vi/<?php echo $tutorials[$i]["link"]?>/1.jpg" height="90%" width="98%" >
+					<?php echo $tutorials[$i]["theme"]?>
+					</a>
 			</div>
-			
-			<div style='height:150px;color=red;'> Other VID
-			<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/UFvdpMBJ4c8" allowfullscreen></iframe>
-			</div>
-			<div style='height:150px;color=red;'> Other VID
-			<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/UFvdpMBJ4c8" allowfullscreen></iframe>
-			</div>
+	<?php  } ?>
 	</div>
 	
 </div>
