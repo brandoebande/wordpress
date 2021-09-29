@@ -139,10 +139,11 @@
 	<?php 
 			for($i =0;$i<sizeof($tutorials);$i++){
 	?>
-			<div style='height:150px;color=red;padding:2px;'> 
-					<a href ="videos.php?id=<?php echo $i; ?>"><img class = "center-block" src="https://img.youtube.com/vi/<?php echo $tutorials[$i]["link"]?>/1.jpg" height="90%" width="98%" >
-					<?php echo $tutorials[$i]["theme"]?>
+			<div style='height:150px;padding:2px;'> 
+					<a  href ="videos.php?id=<?php echo $i; ?>"><img class = "center-block" src="https://img.youtube.com/vi/<?php echo $tutorials[$i]["link"]?>/1.jpg" >
+					<div class = "center-block"><?php echo $tutorials[$i]["theme"]?></div>
 					</a>
+					<hr color="white" width ="70%" >
 			</div>
 	<?php  } ?>
 	</div>
