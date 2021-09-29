@@ -2,8 +2,8 @@
    
     display: grid;
     height:100vh;
-    grid-template-columns: 3fr 2fr;
-    grid-template-rows: 3fr 2fr;
+    grid-template-columns: 3fr 1fr;
+    grid-template-rows: 3fr 1fr;
     grid-column-gap: 5px;
     grid-template-areas: "main-video other-videos"
                         "main-video other-videos";
@@ -23,13 +23,13 @@
 
 }
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 900px) {
     .videos-container{
    
         display: grid;
         height:100vh;
-        grid-template-columns: 3fr 2fr;
-        grid-template-rows: 3fr 2fr;
+        grid-template-columns: 4fr 1fr;
+        grid-template-rows: 4fr 1fr;
         grid-column-gap: 5px;
         grid-template-areas: "main-video main-video"
                             "other-videos other-videos";

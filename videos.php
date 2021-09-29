@@ -72,16 +72,22 @@
 				<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/UFvdpMBJ4c8" allowfullscreen></iframe>
 			</div>
 			<div  style ='overflow-y: scroll;'>
-			Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repellat quasi commodi doloremque veritatis. Nulla, tempora, ipsum dolores laborum veniam ducimus aliquid aspernatur omnis veritatis eligendi voluptatum consectetur, officiis quis expedita nesciunt at! Nostrum, totam. Natus, asperiores! Soluta dolorum nobis expedita rem, animi voluptate hic nihil dignissimos illo voluptatibus sunt omnis esse est pariatur fuga dolores illum, quia at. Magnam odit, itaque mollitia nobis inventore optio quo id aperiam, enim tenetur quam, illo maiores earum! Rem sapiente laborum quis dignissimos nemo sequi sunt culpa perspiciatis ducimus cumque at, rerum, nam praesentium illo. Deserunt facilis, adipisci ex dolores hic repellendus nisi! Sapiente, eligendi? Natus pariatur quas sapiente autem distinctio et, nulla voluptatem maiores voluptate aliquam harum ad qui id maxime ipsa commodi?
+			<p> Ash Wednesday </p>
+			<p>Preacher : Rev D Mupaya </p>
+			<p>Bible Readings:</p>
+			<p>Theme :</p>
 			</div>
 		</div>
 	<div id = 'other-videos' >
 			<div style='height:150px;color=red;'> Other VID
+			<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/UFvdpMBJ4c8" allowfullscreen></iframe>
 			</div>
-			<div style='height:150px;color=red;'> Other VID
-			</div>
-			<div style='height:150px;color=red;'> Other VID
 			
+			<div style='height:150px;color=red;'> Other VID
+			<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/UFvdpMBJ4c8" allowfullscreen></iframe>
+			</div>
+			<div style='height:150px;color=red;'> Other VID
+			<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/UFvdpMBJ4c8" allowfullscreen></iframe>
 			</div>
 	</div>
 	

@@ -1,14 +1,25 @@
-<?php
-$servername = "http://sql5.freesqldatabase.com/";
-$username = "sql5422204";
-$password = "bjrpqZqfZQ";
+<!DOCTYPE html> 
+    <html> 
+    <body> 
+    <video id="myVideo" width="320" height="176" controls>
+      <source src="mov_bbb.mp4" type="video/mp4">
+    </video>
 
-// Create connection
-$conn = new mysqli($servername, $username, $password);
+    <script>
+        $(document).ready(function(){
+            var vid = document.getElementById("myVideo");
+            //Converting seconds to miliseconds.
+            var durationOfVideo   = parseInt(vid.duration * 1000);
+            setTimeout(function(){
+                alert("Hello"); 
+            }, durationOfVideo);
 
-// Check connection
-if ($conn->connect_error) {
-  die("Connection failed: " . $conn->connect_error);
-}
-echo "Connected successfully";
-?>
+    });
+
+    </script> 
+
+
+    </body> 
+    </html>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
