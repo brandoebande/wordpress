@@ -33,7 +33,99 @@
 <html>
 <body>
 
-<img src="https://img.youtube.com/vi/UFvdpMBJ4c8/1.jpg" alt="Italian Trulli">
+<div class="container">
+            <h2><span>News</span></h2>
+            <div  style ='overflow-x: scroll;'>
+            <div class="row">
+
+              <div class="col-lg-4 col-md-4 col-sm-12">
+                <div class="newsBox">
+                    <div class="thumbnail">
+                        <figure><img src="assets/images/church2.jpg" alt=""></figure>
+                        <div class="caption maxheight2">
+                        <div class="box_inner">
+                                    <div class="box">
+                                        <p class="title"><h5>Developer</h5></p>
+                                        <p>Lorem ipsum dolor sit amet, conc tetu er adipi scing. Praesent ves tibuum molestie lacuiirhs. Aenean.</p>
+                                    </div> 
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-12">
+                <div class="newsBox">
+                    <div class="thumbnail">
+                        <figure><img src="assets/images/church1.jpg" alt=""></figure>
+                        <div class="caption maxheight2">
+                        <div class="box_inner">
+              
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-12">
+                <div class="newsBox">
+                    <div class="thumbnail">
+                        <figure><img src="assets/images/church1.jpg" alt=""></figure>
+                        <div class="caption maxheight2">
+                        <div class="box_inner">
+                                    <div class="box">
+                                        <p class="title"><h5>Photography   </h5></p>
+                                        <p>Lorem ipsum dolor sit amet, conc tetu er adipi scing. Praesent ves tibuum molestie lacuiirhs. Aenean.</p>
+                                    </div> 
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-12">
+                <div class="newsBox">
+                    <div class="thumbnail">
+                        <figure><img src="assets/images/church1.jpg" alt=""></figure>
+                        <div class="caption maxheight2">
+                        <div class="box_inner">
+                                    <div class="box">
+                                        <p class="title"><h5>Photography   </h5></p>
+                                        <p>Lorem ipsum dolor sit amet, conc tetu er adipi scing. Praesent ves tibuum molestie lacuiirhs. Aenean.</p>
+                                    </div> 
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-12">
+                <div class="newsBox">
+                    <div class="thumbnail">
+                        <figure><img src="assets/images/church1.jpg" alt=""></figure>
+                        <div class="caption maxheight2">
+                        <div class="box_inner">
+                                    <div class="box">
+                                        <p class="title"><h5>Photography   </h5></p>
+                                        <p>Lorem ipsum dolor sit amet, conc tetu er adipi scing. Praesent ves tibuum molestie lacuiirhs. Aenean.</p>
+                                    </div> 
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-12">
+                <div class="newsBox">
+                    <div class="thumbnail">
+                        <figure><img src="assets/images/church.jpg" alt=""></figure>
+                        <div class="caption maxheight2">
+                       <div class="box_inner">
+                                    <div class="box">
+                                        <p class="title"><h5>Audio Editing</h5></p>
+                                        <p>Lorem ipsum dolor sit amet, conc tetu er adipi scing. Praesent ves tibuum molestie lacuiirhs. Aenean.</p>
+                                    </div> 
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</section>
+
     
 </body>
 </html>
