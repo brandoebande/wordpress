@@ -80,19 +80,22 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 				<br />
 				<div class = 'videos-container'>
 	     <div id = 'main-video' >
-	      <iframe  height='480px' width= '750px' src="https://www.youtube.com/embed/UFvdpMBJ4c8">
-          </iframe>
-	      </div>
-	     <div id = 'other-videos'>
-		 <a href="https://www.youtube.com/channel/UCG1a0pucBsx1xoRD1qvufRw?sub_confirmation=1"> <img src="assets/images/sub3.jpg" width="150px"  alt="" style="border: radius 3%;"></a>
-		 </article>
-			<!-- /Article -->
-
-
-			 <!-- Sidebar -->
-			 <aside class="col-sm-4 sidebar sidebar-right">
-
-<div class="panel">
+	     
+<div class="panel"> <a href="https://youtu.be/UFvdpMBJ4c8">
+    <div class="newsBox">
+        <div class="thumbnail">
+            <figure><img src="assets/images/ASHWES.jpg" alt=""></figure>
+            <div class="caption maxheight2">
+           <div class="box_inner">
+                        <div class="box">
+                        </a>
+                        </div>
+                      
+                        </div> 
+                </div>
+            </div>
+        </div>
+    </div>
 	<h4>CORE VALUES</h4>
 	<ul class="list-unstyled list-spaces">
 		<li><a href="">Do Good</a><br>

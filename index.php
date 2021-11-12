@@ -174,55 +174,7 @@
                         <div class="caption maxheight2">
                         <div class="box_inner">
                                     <div class="box">
-                                        <p class="title"><h5>Developer</h5></p>
-                                        <p>.</p>
-                                    </div> 
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-lg-4 col-md-4 col-sm-12">
-                <div class="newsBox">
-                    <div class="thumbnail">
-                        <figure><img src="assets/images/church2.jpg" alt=""></figure>
-                        <div class="caption maxheight2">
-                        <div class="box_inner">
-                                    <div class="box">
-                                        <p class="title"><h5>Developer</h5></p>
-                                        <p>.</p>
-                                    </div> 
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-lg-4 col-md-4 col-sm-12">
-                <div class="newsBox">
-                    <div class="thumbnail">
-                        <figure><img src="assets/images/church2.jpg" alt=""></figure>
-                        <div class="caption maxheight2">
-                        <div class="box_inner">
-                                    <div class="box">
-                                        <p class="title"><h5>Developer</h5></p>
-                                        <p>.</p>
-                                    </div> 
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        
-          <div class="col-lg-4 col-md-4 col-sm-12">
-                <div class="newsBox">
-                    <div class="thumbnail">
-                        <figure><img src="assets/images/church1.jpg" alt=""></figure>
-                        <div class="caption maxheight2">
-                        <div class="box_inner">
-                                    <div class="box">
-                                        <p class="title"><h5>Photography   </h5></p>
+                                        <p class="title"><h5>RRW WEEK</h5></p>
                                         <p></p>
                                     </div> 
                             </div>
@@ -230,7 +182,7 @@
                     </div>
                 </div>
             </div>
-         
+
             <div class="col-lg-4 col-md-4 col-sm-12">
                 <div class="newsBox">
                     <div class="thumbnail">

@@ -80,13 +80,25 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 				<br />
 				<div class = 'videos-container'>
 	     <div id = 'main-video' >
-	      <iframe  height='480px' width= '750px' src="https://www.youtube.com/embed/UFvdpMBJ4c8">
-          </iframe>
-	      </div>
-	     <div id = 'other-videos'>
-		 <a href="https://www.youtube.com/channel/UCG1a0pucBsx1xoRD1qvufRw?sub_confirmation=1"> <img src="assets/images/sub3.jpg" width="150px"  alt="" style="border: radius 3%;"></a>
-		 </article>
-			<!-- /Article -->
+		
+    <a href="https://youtu.be/UFvdpMBJ4c8">
+    <div class="newsBox">
+        <div class="thumbnail">
+            <figure><img src="assets/images/ASHWES.jpg" alt=""></figure>
+            <div class="caption maxheight2">
+           <div class="box_inner">
+                        <div class="box">
+                        </a>
+                        </div>
+                      
+                        </div> 
+                </div>
+            </div>
+        </div>
+    </div>
+	<a href="https://twitter.com/SunningdaleUmc?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow </a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+	<a href="https://www.instagram.com/sunningdale_umc/" class="intagram-follow-button" data-show-count="false">Follow </a><script async src="https://platform.intsagram.com/widgets.js" charset="utf-8"></script>
+	<!-- /Article -->
 		
 
 
