@@ -185,7 +185,7 @@
             <div class="col-lg-4 col-md-4 col-sm-12">
                 <div class="newsBox">
                     <div class="thumbnail">
-                        <figure><img src="assets/images/church.jpg" alt=""></figure>
+                        <figure><img src="assets/images/church2.jpg" alt=""></figure>
                         <div class="caption maxheight2">
                        <div class="box_inner">
                                     <div class="box">

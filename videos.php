@@ -1,10 +1,10 @@
 <?php
 	$tutorials = array(
         array('link'=>'D5d5wGkbn6o' , 
-            'readings'=>'N/A',
-            'theme'=>'00',
-            'preacher'=> 'Rev Bande',
-            'decr'=>'00'),
+            'readings'=>'KJV Rom 1:16, John 3:16',
+            'theme'=>'Theme 00001',
+            'preacher'=> 'Sample Preacher 1',
+            'decr'=>'The sermon that was preached on 00/00/0000 on AAAA function'),
         array('link'=>'QBY9DvHi4Tk' ,
              'readings'=>'Michael Todd',
              'theme'=>'01',
@@ -127,11 +127,11 @@
 			<div class="embed-responsive embed-responsive-16by9">
 			<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/<?php echo $tutorials[$id]['link']; ?>" allowfullscreen></iframe>
 			</div>
-			<div  style ='overflow-y: scroll;margin:5px;'>
-			<p> Ash Wednesday </p>
-			<p>Preacher : <?php echo $tutorials[$id]['preacher']; ?> </p>
-			<p>Bible Readings: <?php echo $tutorials[$id]['readings']; ?></p>
-			<p>Theme : <?php echo $tutorials[$id]['theme']; ?></p>
+			<div  style ='overflow-y: scroll;'>
+			<p class = "p1" style ='margin-left:15px;font-size:30px;font-weight:bold;'> Ash Wednesday </p>
+			<p style ='margin-left:15px;'>Preacher : <?php echo $tutorials[$id]['preacher']; ?> </p>
+			<p style ='margin-left:15px;'>Bible Readings: <?php echo $tutorials[$id]['readings']; ?></p>
+			<p style ='margin:15px;'>Theme : <?php echo $tutorials[$id]['theme']; ?></p>
 			</div>
 		</div>
 	<div id = 'other-videos'style=padding:2px;' >
@@ -139,8 +139,8 @@
 			for($i =0;$i<sizeof($tutorials);$i++){
 	?>
 			<div style='height:150px;padding:2px;'> 
-					<a  href ="videos.php?id=<?php echo $i; ?>"><img class = "center-block" src="https://img.youtube.com/vi/<?php echo $tutorials[$i]["link"]?>/1.jpg" >
-					<div class = "center-block"><?php echo $tutorials[$i]["theme"]?></div>
+					<a style="color:black;text-decoration:none;" href ="videos.php?id=<?php echo $i; ?>"><img  src="https://img.youtube.com/vi/<?php echo $tutorials[$i]["link"]?>/1.jpg" >
+					<div  class = "center-block"><?php echo $tutorials[$i]["theme"]?></div>
 					</a>
 					<hr color="white" width ="70%" >
 			</div>

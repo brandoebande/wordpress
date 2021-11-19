@@ -28,7 +28,7 @@
                 <!-- Button for smallest screens -->
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button>
                 <a class="navbar-brand" href="index.php">
-                    <img src="assets/images/logo2.png" alt="Techro HTML5 template"></a>
+                    <img src="assets/images/logo2.png" ></a>
             </div>
             <div class="navbar-collapse collapse">
                 <ul class="nav navbar-nav pull-right mainNav">
@@ -144,7 +144,7 @@
                         <!-- Image Hover Block -->
                         <div class="member-img">
                             <!-- Image  -->
-                            <img class="img-responsive" src="assets/images/photo-2.jpg" alt="">
+                            <img class="img-responsive" src="assets/images/revD.jpg" alt="">
                         </div>
                         <!-- Member Details -->
                         <h4>P Mushonga</h4>
@@ -164,7 +164,7 @@
                         <!-- Image Hover Block -->
                         <div class="member-img">
                             <!-- Image  -->
-                            <img class="img-responsive" src="assets/images/photo-3.jpg" alt="">
+                            <img class="img-responsive" src="assets/images/revD.jpg" alt="">
                         </div>
                         <!-- Member Details -->
                         <h4>A Ndori</h4>
@@ -184,7 +184,7 @@
                         <!-- Image Hover Block -->
                         <div class="member-img">
                             <!-- Image  -->
-                            <img class="img-responsive" src="assets/images/photo-4.jpg" alt="">
+                            <img class="img-responsive" src="assets/images/revD.jpg" alt="">
                         </div>
                         <!-- Member Details -->
                         <h4>C Chiwona</h4>
